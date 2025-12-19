@@ -7,7 +7,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 **→ 16 December, 2025 :**
 
-- Installed and set up the **Eclipse IDE**.
+  - Installed and set up the **Eclipse IDE**.
 
 - Solved and submitted **LeetCode Problems**.
 
