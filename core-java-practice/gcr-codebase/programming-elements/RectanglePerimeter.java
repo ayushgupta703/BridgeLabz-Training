@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RectPerimeter {
+public class RectanglePerimeter {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double length = sc.nextInt();

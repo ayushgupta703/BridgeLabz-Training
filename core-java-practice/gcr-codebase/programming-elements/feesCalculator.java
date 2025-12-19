@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class feesCalculator {
+public class FeesCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int studFee = sc.nextInt();

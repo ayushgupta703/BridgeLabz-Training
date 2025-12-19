@@ -1,4 +1,4 @@
-public class feeCalculator {
+public class FeeCalculator {
     public static void main(String[] args) {
         int fee = 125000;
         double discount = 0.1;

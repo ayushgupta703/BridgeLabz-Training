@@ -1,4 +1,4 @@
-public class objectDivider {
+public class ObjectDivider {
     public static void main(String[] args) {
         int pens = 14;
         int students = 3;

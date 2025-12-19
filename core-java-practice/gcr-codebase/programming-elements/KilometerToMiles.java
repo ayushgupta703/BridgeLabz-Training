@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class KM2Miles {
+public class KilometerToMiles {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double Kilogram = sc.nextInt();

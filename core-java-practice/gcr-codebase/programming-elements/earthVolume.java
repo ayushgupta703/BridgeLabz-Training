@@ -1,4 +1,4 @@
-public class earthVolume {
+public class EarthVolume {
     public static void main(String[] args) {
         double radius = 6378; // in km
         double radiusInMiles = radius * 0.621371; // in miles

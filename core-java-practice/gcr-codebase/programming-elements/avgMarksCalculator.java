@@ -1,4 +1,4 @@
-public class avgMarksCalculator {
+public class AvgMarksCalculator {
     public static void main(String[] args) {
         int maths = 94;
         int physics = 95;

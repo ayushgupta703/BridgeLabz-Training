@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class celsius2fehrenheit {
+public class CelsiusToFahrenhiet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter temperature in celsius: ");

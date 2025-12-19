@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class feetYardsConverter {
+public class FeetYardsConverter {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
         System.out.println("Enter the distance in feet: ");
