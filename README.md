@@ -36,4 +36,4 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 | Date | Work Done | Reference |
 |----------|----------|----------|
-| 16 December, 2025     | <ul><li>Installed and set up the **Eclipse IDE**.</li><li>Solved and submitted **LeetCode Problems**.</li></ul>     | [LeetCode Problems](https://github.com/ayushgupta703/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)     |
+| 16 December, 2025     | Installed and set up the **Eclipse IDE**.<br>Solved and submitted **LeetCode Problems**.     | [LeetCode Problems](https://github.com/ayushgupta703/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)     |
