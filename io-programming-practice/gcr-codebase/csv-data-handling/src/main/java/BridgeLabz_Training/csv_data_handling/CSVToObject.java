@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVReader;
 import java.io.FileReader;
@@ -22,7 +22,7 @@ class Student {
 public class CSVToObject {
     public static void main(String[] args) throws Exception {
 
-        CSVReader reader = new CSVReader(new FileReader("../CSV_Files/students.csv"));
+        CSVReader reader = new CSVReader(new FileReader("CSV_Files/students.csv"));
         List<Student> list = new ArrayList<>();
         String[] row;
 

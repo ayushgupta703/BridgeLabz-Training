@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
@@ -8,7 +8,7 @@ import java.util.*;
 public class SortTopPaidEmployees {
     public static void main(String[] args) throws Exception {
 
-        CSVReader reader = new CSVReaderBuilder(new FileReader("../CSV_Files/Employees.csv"))
+        CSVReader reader = new CSVReaderBuilder(new FileReader("CSV_Files/Employees.csv"))
                 .withSkipLines(1)
                 .build();
 

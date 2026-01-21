@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
@@ -6,7 +6,7 @@ import java.io.FileReader;
 
 public class RecordSearchCSV {
 	public static void main(String[] args) throws Exception {
-		CSVReader reader = new CSVReaderBuilder(new FileReader("../CSV_Files/Employees.csv")).withSkipLines(1).build();
+		CSVReader reader = new CSVReaderBuilder(new FileReader("CSV_Files/Employees.csv")).withSkipLines(1).build();
 		String[] row;
 		String name = "Rohit Verma";
 		while((row = reader.readNext()) != null) {

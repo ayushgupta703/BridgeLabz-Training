@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.*;
 import java.io.*;
@@ -9,9 +9,9 @@ public class MergeCSV {
 
         Map<String, String[]> map = new HashMap<>();
 
-        CSVReader r1 = new CSVReader(new FileReader("../CSV_Files/students1.csv"));
-        CSVReader r2 = new CSVReader(new FileReader("../CSV_Files/students2.csv"));
-        CSVWriter writer = new CSVWriter(new FileWriter("../CSV_Files/Merged.csv"));
+        CSVReader r1 = new CSVReader(new FileReader("CSV_Files/students1.csv"));
+        CSVReader r2 = new CSVReader(new FileReader("CSV_Files/students2.csv"));
+        CSVWriter writer = new CSVWriter(new FileWriter("CSV_Files/Merged.csv"));
 
         r1.readNext();
         r2.readNext();

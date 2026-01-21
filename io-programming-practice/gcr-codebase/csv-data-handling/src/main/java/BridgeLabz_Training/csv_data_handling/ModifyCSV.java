@@ -1,4 +1,4 @@
-../package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
@@ -10,8 +10,8 @@ import java.io.FileWriter;
 public class ModifyCSV {
     public static void main(String[] args) {
         try (
-            CSVReader reader = new CSVReaderBuilder(new FileReader("../CSV_Files/Employees.csv")).withSkipLines(1).build();
-            CSVWriter writer = new CSVWriter(new FileWriter("../CSV_Files/Update_Employees.csv"))) {
+            CSVReader reader = new CSVReaderBuilder(new FileReader("CSV_Files/Employees.csv")).withSkipLines(1).build();
+            CSVWriter writer = new CSVWriter(new FileWriter("CSV_Files/Update_Employees.csv"))) {
         	String[] header = {"ID", "Name", "Department", "Salary"};
             writer.writeNext(header);
             String[] row;

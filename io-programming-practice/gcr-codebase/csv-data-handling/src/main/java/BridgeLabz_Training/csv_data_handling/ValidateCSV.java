@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVReader;
 import java.io.FileReader;
@@ -6,7 +6,7 @@ import java.io.FileReader;
 public class ValidateCSV {
     public static void main(String[] args) throws Exception {
 
-        CSVReader reader = new CSVReader(new FileReader("../CSV_Files/users.csv"));
+        CSVReader reader = new CSVReader(new FileReader("CSV_Files/users.csv"));
         String[] row;
 
         String emailRegex = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$";

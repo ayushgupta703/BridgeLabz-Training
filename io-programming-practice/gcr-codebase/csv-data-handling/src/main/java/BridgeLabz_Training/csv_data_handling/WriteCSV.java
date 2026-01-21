@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVWriter;
 import java.io.FileWriter;
@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class WriteCSV {
 	public static void main(String[] args) {
-		try (CSVWriter writer = new CSVWriter(new FileWriter("../CSV_Files/Output.csv"))) {
+		try (CSVWriter writer = new CSVWriter(new FileWriter("CSV_Files/Output.csv"))) {
 			String[] header = {"ID", "Name", "Department", "Salary"};
             String[] emp1 = {"101", "Alice Williams", "Finance", "62000"};
             String[] emp2 = {"102", "Bob Johnson", "Sales", "58000"};

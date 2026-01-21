@@ -1,4 +1,4 @@
-package BridgeLabz_Training.CSV_Handling;
+package BridgeLabz_Training.csv_data_handling;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
@@ -9,7 +9,7 @@ public class ReadLargeCSV {
 
     public static void main(String[] args) throws Exception {
 
-        CSVReader reader = new CSVReaderBuilder(new FileReader("../CSV_Files/LargeEmployees.csv")).withSkipLines(1).build();
+        CSVReader reader = new CSVReaderBuilder(new FileReader("CSV_Files/LargeEmployees.csv")).withSkipLines(1).build();
         String[] row;
         int count = 0;
         int batchSize = 100;
