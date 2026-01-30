@@ -1,0 +1,81 @@
+package scenario_based;
+
+import java.util.Scanner;
+
+//Custom Exception Class
+@SuppressWarnings("serial")
+class RobotSafetyException extends Exception {
+ public RobotSafetyException(String message) {
+     super(message);
+ }
+}
+
+//Business Logic Class
+class RobotHazardAuditor {
+
+ public double calculateHazardRisk(double armPrecision, int workerDensity, String machineryState)
+         throws RobotSafetyException {
+
+     // Validate arm precision
+     if (armPrecision < 0.0 || armPrecision > 1.0) {
+         throw new RobotSafetyException("Error: Arm precision must be 0.0-1.0");
+     }
+
+     // Validate worker density
+     if (workerDensity < 1 || workerDensity > 20) {
+         throw new RobotSafetyException("Error: Worker density must be 1-20");
+     }
+
+     double machineRiskFactor;
+
+     // Validate machinery state (case-sensitive as per requirement)
+     if (machineryState.equalsIgnoreCase("Worn")) {
+         machineRiskFactor = 1.3;
+     } else if (machineryState.equalsIgnoreCase("Faulty")) {
+         machineRiskFactor = 2.0;
+     } else if (machineryState.equalsIgnoreCase("Critical")) {
+         machineRiskFactor = 3.0;
+     } else {
+         throw new RobotSafetyException("Error: Unsupported machinery state");
+     }
+
+     // Hazard risk calculation
+     double hazardRisk =
+             ((1.0 - armPrecision) * 15.0) + (workerDensity * machineRiskFactor);
+
+     return hazardRisk;
+ }
+}
+
+//Main / UI Class
+public class FactoryRobotHazardAnalyzer {
+
+ public static void main(String[] args) {
+
+     Scanner sc = new Scanner(System.in);
+     RobotHazardAuditor auditor = new RobotHazardAuditor();
+
+     try {
+         System.out.println("Enter Arm Precision (0.0 - 1.0):");
+         double armPrecision = sc.nextDouble();
+         sc.nextLine(); // consume newline
+
+         System.out.println("Enter Worker Density (1 - 20):");
+         int workerDensity = sc.nextInt();
+         sc.nextLine(); // consume newline
+
+         System.out.println("Enter Machinery State (Worn/Faulty/Critical):");
+         String machineryState = sc.nextLine();
+
+         double risk = auditor.calculateHazardRisk(
+                 armPrecision, workerDensity, machineryState);
+
+         System.out.println("Robot Hazard Risk Score: " + risk);
+
+     } catch (RobotSafetyException e) {
+         System.out.println(e.getMessage());
+     }
+
+     sc.close();
+ }
+}
