@@ -3,6 +3,8 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 ---
 
+## 📅 Daily Progress Log
+
 | Date | Work Done | Reference |
 |----------|----------|----------|
 | 16 Dec 2025       | Installed and set up the **Eclipse IDE**.<br>Solved and submitted **LeetCode Problems**.  | [LeetCode Problems](https://github.com/ayushgupta703/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)     |
@@ -15,7 +17,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 | 23 Dec 2025       | Solved and submitted **Level 1 and 2** Problem for **Class and Objects**.<br>Solved and submitted problems for **Constructors**.  | [Classes and Objects](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)<br>[Constructors](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors) |
 | 24 Dec 2025       | Solved and submitted problems for **Object Oriented Design Principles**.<br>Solved and submitted problems for **Keywords**.  | [Object Oriented Design Principles](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object-sequence-diagrams)<br>[Keywords](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords) |
 | 26 Dec 2025       | Solved and submitted problems for **Inheritance**.<br>Solved and submitted problems for **Encapsulation, Polymorphism, Interface and Abstract Class**.  | [Inheritance](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)<br>[Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface-abstract-classes) |
-| 29 Dec 2025       | Solved and submitted problems for **Linked List**.<br>Solved and submitted problems for **Stack , Queue, HashMap and Hashing Function**.  | [Linked List](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)<br>[Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacks-queues-hashmaps-hash-functions) |
+| 29 Dec 2025       | Solved and submitted problems for **Linked List**.<br>Solved and submitted problems for **Stack , Queue, HashMap and Hashing Function**.  | [Linked List](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)<br>[Stack , Queue, HashMap and Hashing Function](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacks-queues-hashmaps-hash-functions) |
 | 30 Dec 2025       | Solved and submitted problems for **Sorting Algorithms**.  | [Sorting Algorithms](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms) |
 | 31 Dec 2025       | Solved and submitted problems for **Linear and Binary Search**.<br>Solved and submitted Scenario-Based Question of **Employee Wage Computation**.  | [Linear and Binary Search](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)<br>[Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) |
 | 01 Jan 2026       | Solved and submitted problems for **Runtime Analysis and Big-O Notation**.  | [Runtime Analysis and Big-O Notation](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-and-big-O-notation) |
@@ -33,3 +35,37 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 | 28 Jan 2026       | Solved and submitted **Scenario Based Questions**.  | [Scenario-Based Questions](https://github.com/ayushgupta703/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) |
 | 29 Jan 2026       | Solved and submitted problems for **Functional Interfaces**.<br>Solved and submitted **OOPS Scenario Based Question**.<br>Solved and submitted **DSA Scenario Based Question**.  | [Functional Interfaces](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/gcr-codebase/functional_interfaces)<br>[OOPS Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/FutureLogistics.java)<br>[DSA Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/AeroVigil.java) |
 | 30 Jan 2026       | Solved and submitted problems for **Stream API**.<br>Solved and submitted **JUnit Scenario Based Question**.<br>Solved and submitted **DSA Scenario Based Question**.  | [Stream API](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/gcr-codebase/streamAPI)<br>[JUnit-TestCase Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based/jUnit)<br>[DSA Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer.java) |
+
+---
+
+## 📌 Scenario-Based Questions Summary
+
+This section showcases all **scenario-based questions** solved during the BridgeLabz training program.  
+Each problem is grouped **date-wise**, along with its **domain** and **direct GitHub reference**.
+
+| Date | Scenario / Problem | Domain | Reference |
+|------|-------------------|--------|-----------|
+| 20 Dec 2025 | BMI Fitness Checker | Core Java | [BMIFitnessChecker](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/BMIFitnessChecker.java) |
+| 20 Dec 2025 | Coffee Counter | Core Java | [CoffeeCounter](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/CoffeeCounter.java) |
+| 31 Dec 2025 | Employee Wage Computation | OOPS | [Employee Wage Computation](https://github.com/ayushgupta703/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/EmployeeWageComputation.java) |
+| 02 Jan 2026 | Paragraph Analyzer | Core Java | [ParagraphAnalyzer](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/ParagraphAnalyzer.java) |
+| 02 Jan 2026 | Text Auto Corrector | Core Java | [TextAutoCorrector](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/TextAutoCorrector.java) |
+| 03 Jan 2026 | Flight Booking System | Core Java | [FlightBookingSystem](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/FlightBookingSystem.java) |
+| 03 Jan 2026 | Student Grading System | Core Java | [StudentGradingSystem](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/StudentGradingSystem.java) |
+| 03 Jan 2026 | Student Score Manager | Core Java | [StudentScoreManager](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/StudentScoreManager.java) |
+| 03 Jan 2026 | Temperature Analyzer | Core Java | [TemperatureAnalyzer](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/TemperatureAnalyzer.java) |
+| 21 Jan 2026 | Browser Buddy | DSA | [BrowserBuddy](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/BrowserBuddy.java) |
+| 21 Jan 2026 | Library Manager | DSA | [LibraryManager](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/LibraryManager.java) |
+| 21 Jan 2026 | Traffic Manager | DSA | [TrafficManager](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/TrafficManager.java) |
+| 21 Jan 2026 | Exam Proctor | DSA | [ExamProctor](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/ExamProctor.java) |
+| 21 Jan 2026 | Parcel Tracker | DSA | [ParcelTracker](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/ParcelTracker.java) |
+| 28 Jan 2026 | Flip Key | Core Java | [FlipKey](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/FlipKey.java) |
+| 28 Jan 2026 | Lexical Twist | Core Java | [LexicalTwist](https://github.com/ayushgupta703/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java) |
+| 29 Jan 2026 | Future Logistics System | OOPS | [FutureLogistics](https://github.com/ayushgupta703/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/FutureLogistics.java) |
+| 29 Jan 2026 | Aero Vigil Monitoring System | DSA | [AeroVigil](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/AeroVigil.java) |
+| 30 Jan 2026 | Factory Robot Hazard Analyzer | DSA | [FactoryRobotHazardAnalyzer](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer.java) |
+| 30 Jan 2026 | JUnit Test Case Scenario | Collections – JUnit | [JUnit Scenario](https://github.com/ayushgupta703/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based/jUnit) |
+
+---
+
+✨ *This section highlights hands-on problem-solving across Core Java, OOPS, DSA, and Testing domains using real-world scenarios.*
