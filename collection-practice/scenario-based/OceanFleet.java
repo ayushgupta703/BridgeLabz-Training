@@ -18,24 +18,12 @@ class Vessel {
 		this.vesselType = vesselType;
 	}
 
-	public Vessel() {
-		super();
-	}
-
 	public String getVesselId() {
 		return vesselId;
 	}
 
-	public String getVesselName() {
-		return vesselName;
-	}
-
 	public double getAverageSpeed() {
 		return averageSpeed;
-	}
-
-	public String getVesselType() {
-		return vesselType;
 	}
 
 	@Override
