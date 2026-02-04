@@ -35,7 +35,10 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 | 28 Jan 2026       | Solved and submitted **Scenario Based Questions**.  | [Scenario-Based Questions](https://github.com/ayushgupta703/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) |
 | 29 Jan 2026       | Solved and submitted problems for **Functional Interfaces**.<br>Solved and submitted **OOPS Scenario Based Question**.<br>Solved and submitted **DSA Scenario Based Question**.  | [Functional Interfaces](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/gcr-codebase/functional_interfaces)<br>[OOPS Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/FutureLogistics.java)<br>[DSA Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/AeroVigil.java) |
 | 30 Jan 2026       | Solved and submitted problems for **Stream API**.<br>Solved and submitted **JUnit Scenario Based Question**.<br>Solved and submitted **DSA Scenario Based Question**.  | [Stream API](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/gcr-codebase/streamAPI)<br>[JUnit-TestCase Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based/jUnit)<br>[DSA Scenario-Based Question](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer.java) |
-| 31 Jan 2026	    | Solved and submitter problems for **Collectors**  | [Collectors](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/gcr-codebase/collectors) |
+| 31 Jan 2026	    | Solved and submitted problems for **Collectors**  | [Collectors](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/gcr-codebase/collectors) |
+| 1 Feb 2026	    | Solved and submitted problem for **Design Patterns**  | [Design Patterns](https://github.com/ayushgupta703/BridgeLabz-Training/tree/design-solution-practice/design-solution-practice/gcr-codebase/design_patterns) |
+| 2 Feb 2026	    | Solved and submitted **Collection Scenario Based Questions**.  | [Stream Buzz](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz.java) |
+| 3 Feb 2026	    | Solved and submitted **Collection Scenario Based Questions**.  | [Ocean Fleet](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java) |
 
 ---
 
@@ -66,6 +69,8 @@ Each problem is grouped **date-wise**, along with its **domain** and **direct Gi
 | 29 Jan 2026 | Aero Vigil Monitoring System | DSA | [AeroVigil](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/AeroVigil.java) |
 | 30 Jan 2026 | Factory Robot Hazard Analyzer | DSA | [FactoryRobotHazardAnalyzer](https://github.com/ayushgupta703/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer.java) |
 | 30 Jan 2026 | JUnit Test Case Scenario | Collections – JUnit | [JUnit Scenario](https://github.com/ayushgupta703/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based/jUnit) |
+| 2 Feb 2026 | Stream Buzz | Collections | [Stream Buzz](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz.java) |
+| 3 Feb 2026 | Ocean Fleet | Collections | [Ocean Fleet](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java) |
 
 ---
 
