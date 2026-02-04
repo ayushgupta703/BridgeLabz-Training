@@ -39,6 +39,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 | 1 Feb 2026	    | Solved and submitted problem for **Design Patterns**  | [Design Patterns](https://github.com/ayushgupta703/BridgeLabz-Training/tree/design-solution-practice/design-solution-practice/gcr-codebase/design_patterns) |
 | 2 Feb 2026	    | Solved and submitted **Collection Scenario Based Questions**.  | [Stream Buzz](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz.java) |
 | 3 Feb 2026	    | Solved and submitted **Collection Scenario Based Questions**.  | [Ocean Fleet](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java) |
+| 4 Feb 2026	    | Solved and submitted problem for **MultiThreading**  | [MultiThreading](https://github.com/ayushgupta703/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multithreading) |
 
 ---
 
