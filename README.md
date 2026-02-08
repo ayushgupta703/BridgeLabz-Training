@@ -40,6 +40,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 | 2 Feb 2026	    | Solved and submitted **Collection Scenario Based Questions**.  | [Stream Buzz](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz.java) |
 | 3 Feb 2026	    | Solved and submitted **Collection Scenario Based Questions**.  | [Ocean Fleet](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java) |
 | 4 Feb 2026	    | Solved and submitted problem for **MultiThreading**  | [MultiThreading](https://github.com/ayushgupta703/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multithreading) |
+| 8 Feb 2026	    | Solved and submitted problem for **DBMS(JDBC) - Health Clinic App**  | [Health Clinic App](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/jdbc) |
 
 ---
 
