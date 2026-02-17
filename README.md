@@ -42,6 +42,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 | 4 Feb 2026	    | Solved and submitted problem for **MultiThreading**  | [MultiThreading](https://github.com/ayushgupta703/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multithreading) |
 | 8 Feb 2026	    | Solved and submitted problem for **DBMS(JDBC) - Health Clinic App**  | [Health Clinic App](https://github.com/ayushgupta703/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/jdbc) |
 | 9 Feb 2026	    | Solved and submitted problem for **Implemented SonarQube in Address Book Problem**  | [SonarQube (AddressBook)](https://github.com/ayushgupta703/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/SonarQube%20(AddressBook)) |
+| 17 Feb 2026	    | Solved and submitted problem for **Scenario Based Problem of Employee Wage Computation**  | [Scenario-Based Questions](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/scenario-based/employeewage) |
 
 ---
 
@@ -74,6 +75,7 @@ Each problem is grouped **date-wise**, along with its **domain** and **direct Gi
 | 30 Jan 2026 | JUnit Test Case Scenario | Collections – JUnit | [JUnit Scenario](https://github.com/ayushgupta703/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based/jUnit) |
 | 2 Feb 2026 | Stream Buzz | Collections | [Stream Buzz](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz.java) |
 | 3 Feb 2026 | Ocean Fleet | Collections | [Ocean Fleet](https://github.com/ayushgupta703/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java) |
+| 17 Feb 2026 | Employee Wage Computation | Java-8 Features | [Employee Wage Computation](https://github.com/ayushgupta703/BridgeLabz-Training/tree/java8-feature-practice/java8-feature-practice/scenario-based/employeewage) |
 
 ---
 
